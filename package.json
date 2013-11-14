@@ -6,6 +6,13 @@
   "scripts": {
     "test": "jasmine-node spec/"
   },
+  "dependencies": {
+    "numeric": "1.2.x"
+  },
+  "devDependencies": {
+    "jasmine-node": "1.11.x",
+    "benchmark-utils": "*"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com:finalclass/numberic.git"

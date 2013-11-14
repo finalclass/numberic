@@ -1,0 +1,24 @@
+{
+  "name": "numberic",
+  "version": "0.0.0",
+  "description": "numericjs wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:finalclass/numberic.git"
+  },
+  "keywords": [
+    "matrix",
+    "matrices",
+    "numeric",
+    "algebra"
+  ],
+  "author": "Szymon Wygnański <s@finalclass.net> (http://finalclass.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finalclass/numberic/issues"
+  }
+}
